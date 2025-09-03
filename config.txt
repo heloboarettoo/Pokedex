@@ -6,7 +6,7 @@ git config --global user.email helooboarettoo@gmail.com
 dotnet new gitignore
 
 -- Criar o projeto MVC
-dotnet new mvc -o Pokedex
+dotnet new mvc -o Pokedex (não executar)
 
 cd Pokedex
 
