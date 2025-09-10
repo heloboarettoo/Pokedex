@@ -8,6 +8,8 @@ dotnet new gitignore
 -- Criar o projeto MVC
 dotnet new mvc -o Pokedex (não executar)
 
+ dotnet watch run
+
 cd Pokedex
 
 -- manipular o banco de dados
